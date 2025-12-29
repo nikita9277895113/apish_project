@@ -1,0 +1,23 @@
+# Временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Вложенные репозитории
+first_project/
+gitlab/my_first_homework/
+
+# Конфиденциальные файлы
+.env
+
+
+first_project/
+gitlab/my_first_homework/
