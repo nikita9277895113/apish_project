@@ -17,7 +17,7 @@ gitlab/my_first_homework/
 
 # Конфиденциальные файлы
 .env
-
+.env.*
 
 first_project/
 gitlab/my_first_homework/
